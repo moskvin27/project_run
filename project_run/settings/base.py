@@ -114,3 +114,8 @@ STATIC_ROOT = 'static'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Custom settings
+COMPANY_NAME = 'Беги или Сдохни'
+SLOGAN = 'Никаких оправданий! Только километры и пот!'
+CONTACTS = 'Тропа боли, км 42.195, поворот налево после судороги'
